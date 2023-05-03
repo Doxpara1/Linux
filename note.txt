@@ -1,0 +1,38 @@
+Requirement of a Full Stack Developer with relevant Exp of 4+ years
+
+Roles and Responsibilities
+Managing the complete software development process from conception to deployment while maintain and upgrading it
+Maintaining and upgrading the software following deployment
+Managing the end-to-end life cycle for the production of software and applications
+Overseeing the automated testing and providing feedback to management during the development process
+Modifying and testing changes to previously developed programs
+
+Other Responsibilities include
+
+·Developing front end and back-end website architecture. 
+
+·Designing user interactions on web pages 
+
+·Creating servers and databases for functionality. 
+
+·Ensuring responsiveness of applications. 
+
+·Designing and developing APIs. 
+
+·Knowledge of Plugin Development 
+
+·Strong organizational and project management skills.
+
+·Excellent verbal communication and problem-solving skills
+
+Knowledge in below technologies will be preferred:
+
+·Django and Python (required) 
+·NodeJS 
+·JavaScript 
+·React JS 
+·MySQL or any other RDBMS 
+·HTML ·CSS ·Bootstrap ·Linux ·Git ·JSON 
+·Candidate should also have working experience Azure (CloudFront, Load Balancers and other relevant services) and  in Linux basic commands.
+
+Reach out to me on Meghna.mahajan@tcs.com
