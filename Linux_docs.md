@@ -82,14 +82,14 @@ sudo ufw allow proto tcp from any to any port 22     - here any is any ipaddress
 <pre>
 sudo apt-get install htop
 htop
-•	press f3    - for searching name in htop 
-•	space     -  for next
-•	f9 – options to kill
-•	9 and enter – to kill
+  •press f3    - for searching name in htop 
+  •space     -  for next
+  •f9 – options to kill
+  •9 and enter – to kill
 ps
-•	ps aux   
-•	ps aux | grep ssh
-•	sudo kill 7817
+  •ps aux   
+  •ps aux | grep ssh
+  •sudo kill 7817
 </pre>
 
 **SSH         (client server connection model)**
