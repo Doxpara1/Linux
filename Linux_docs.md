@@ -1,6 +1,6 @@
 **Solve linux update errors:**
 <pre>
-<h4>apt update issue</h4>
+### apt update issue
 go to sudo and add
 wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
 
