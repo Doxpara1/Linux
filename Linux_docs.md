@@ -1,12 +1,13 @@
 **Solve linux update errors:**
 <pre>
-Go to /etc/apt/sources.list
-And change http to https
+**apt update issue**
+go to sudo and add
+wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
 
-sudo rm /var/lib/dpkg/lock-frontend
-dpkg  - - configure  -a                       (when get interrupted during installation) or
-sudo rm –rf  /var/lib/dpkg/updates/*
-sudo rm /var/lib/dpkg/lock-frontend
+**interrupted during installation issue**
+dpkg  - - configure  -a   
+sudo rm /var/lib/dpkg/lock-frontend        
+sudo rm –rf /var/lib/dpkg/updates/*
 sudo apt install --fix-broken
 </pre>
 
