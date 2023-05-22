@@ -1,3 +1,17 @@
+**Solve linux update errors:**
+<pre>
+Go to /etc/apt/sources.list
+And change http to https
+
+sudo rm /var/lib/dpkg/lock-frontend
+dpkg  - - configure  -a                       (when get interrupted during installation) or
+sudo rm –rf  /var/lib/dpkg/updates/*
+sudo rm /var/lib/dpkg/lock-frontend
+sudo apt install --fix-broken
+</pre>
+
+
+
 **Keyboard shortcuts**
 <pre>
 terminal open  - ctr alt t , term close = ctr shift w
