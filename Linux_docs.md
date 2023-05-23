@@ -36,6 +36,7 @@ sudo service network-manager restart
 sudo gparted                = for checking disc allocation
 >= overwrite
 >>= append
+sudo dpkg -i packagename.deb       (installing package)
 </pre>
 
 
