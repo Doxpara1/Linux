@@ -1,10 +1,10 @@
 **Solve linux update errors:**
 <pre>
-<h5>apt update issue</h5>
+<b>apt update issue</b>
 go to sudo and add
 wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
 
-<h5>interrupted during installation issue</h5>
+<b>interrupted during installation issue</b>
 dpkg  - - configure  -a   
 sudo rm /var/lib/dpkg/lock-frontend        
 sudo rm –rf /var/lib/dpkg/updates/*
